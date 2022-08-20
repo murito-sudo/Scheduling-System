@@ -7,7 +7,7 @@ With this app you can schedule appointments for different customers in a company
 end date.
 
 Functionalities:
-1-)Login System
+1-)Login System\n
 2-)Add,Update and Delete Customer record
 3-)Add,Update and Delete Appointment records.
 4-)Appointment remainder within 15 minutes of the appointment start date.
